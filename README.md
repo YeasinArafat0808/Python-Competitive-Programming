@@ -18,7 +18,8 @@ for some non-negative integers a , b
 •	8079 cannot be formed -> NO
 
 ->	Full Python Code  :
-''' 
+
+`
 t = int(input())
 for _ in range(t):
     n = int(input())
@@ -28,7 +29,8 @@ for _ in range(t):
         print("YES")
     else:
         print("NO")
-        '''
+`
+
 ________________________________________
 
 ->	Algorithm Explanation  :
